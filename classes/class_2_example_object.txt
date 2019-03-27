@@ -1,0 +1,9 @@
+object bar
+
+"Sam Smith"
+6
+"Sue Lee"
+
+["Sam Smith", "Jim Johnson"
+7
+["Sue Lee", "Jill James"]
