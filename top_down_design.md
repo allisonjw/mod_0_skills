@@ -1,0 +1,53 @@
+How to get food in a restaurant
+- chose a restaurant
+	- type of cuisine
+		- asian
+		- mexican
+		- thai
+		- steak
+	- budget
+		- less than $10
+		- less than $25
+		- less than $50
+- go to restaurant
+	- get in car
+		- find keys
+		- go to garage
+			- open garage
+		- start car
+			- put keys in ignition and turn
+	- drive to restaurant
+		- leave home
+		- follow directions to restaurant
+			 - map on phone
+			 - follow GPS
+		- park
+	- go inside restaurant
+		- get out of car
+		- walk to front door
+		-go inside
+- find a table
+	- speak to host/hostess
+		- walk to host/hostess station
+		- request a table
+	- get sat for meal
+		- walk with host/hostess to table
+- order food
+	- get menu
+		- take menu off table
+	- review options
+		- chose a dinner
+			- meat
+			- fish
+			- pasta
+			- salad
+	- order meal
+		- place with waitress
+			- ask nice for dinner choice
+- eat dinner
+	- get food
+		- waitress places on table
+	- eat meal
+		- pick-up utensils
+		- bring food to mouth
+		- smile														 					
