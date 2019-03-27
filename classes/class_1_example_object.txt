@@ -1,0 +1,9 @@
+object restaurant
+
+"Bob's Bar"
+28
+["steak", "fried chicken", "gizzards"]
+
+"Bob's Bar and Bistro"
+26
+{"steak", "fried chicken", "gizzards", "cobb salad"}
