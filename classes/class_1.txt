@@ -1,0 +1,11 @@
+Class restaurant
+
+Attributes
+name (string)
+number_of_employees (integer)
+popular_food_items (array)
+
+Methods
+decrease_employees_by_2 (number_of_employees, then subtract by 2)
+add_new_popular_food (popular_food_items, then add "cobb salad"
+change_name (name, then add "and Bistro" to end)
