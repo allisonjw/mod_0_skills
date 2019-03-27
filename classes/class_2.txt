@@ -1,0 +1,11 @@
+Class bar
+
+Attributes
+manager (string)
+number_of_beer_taps (integer)
+main_bartender (string)
+
+Methods
+hire_additional_manager (manage, then add Jim Johnson)
+add_another_beer_tab (number_of_beer_taps, then add 1)
+hire_another_bartender (main_bartender, then add "Jill James" to end)
